@@ -9,8 +9,8 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://drive.google.com/uc?export=download&id=1txbt4FShGRIXDKGmnwMyNh85q8Y-fyye'
-export_file_name = 'export(2) .pkl'
+export_file_url = 'https://drive.google.com/uc?export=download&id=17f6iMj_-M1OGqxTez-7TO6cIOxYZ0Zhs'
+export_file_name = 'export.pkl'
 
 classes = ['happy', 'sad', 'mad', 'confused', 'crying', 'excited']
 path = Path(__file__).parent
